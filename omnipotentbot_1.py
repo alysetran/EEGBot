@@ -52,9 +52,9 @@ class omnipotentbot_1(Player):
         self.color = None
         self.my_piece_captured_square = None
 
+    
     def handle_game_start(self, color: Color, board: chess.Board, opponent_name: str):
-        if color == chess.BLACK:
-            self.move_sequence = list(Strategies_black)
+        pass
 
     def handle_opponent_move_result(self, captured_my_piece: bool, capture_square: Optional[Square]):
         pass
