@@ -4,6 +4,7 @@
 # circuit2020_BYTES_OrderOfThePhoenix_hogwarts_hippopotami
 
 #Documentation for Reconchess Challenge:
+#Final Bot for Reconchess: OmnipotentBot_1
 
 The strategy for the OmnipotentBot is primarily based upon a set of pre-defined moves. The purpose of the bot is to iterate through the set of moves to lead to a 
 fast and decisive victory where the other king is taken. The strategies that were selected for the bot are arranged based upon priority. The initial priority it to 
@@ -14,6 +15,7 @@ The installation and execution for the OmnipotentBot just requires installation 
 pycharm or a gitpull. You use the rc-bot play command in the terminal to run OmnipotentBot against other bots. 
 
 #Documentation for BCI Challege:
+#Final Bot for BCI: EEG_Final
 
 The strategy for the BCI challenge is primarily to modify a pre-existing bot for the challenge. The strategy behind the bot is to look at the training data and 
 assign them by a linear regression model. Due to many issues with reading the data for the challenge and finding the path, Hogwarts Hippoptomi has included a part 
