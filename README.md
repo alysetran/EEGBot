@@ -5,7 +5,7 @@
 
 #Documentation for Reconchess Challenge:
 
-#Final Bot for Reconchess: OmnipotentBot_1
+#Final Bot for Reconchess: omnipotentbot_1
 
 The strategy for the OmnipotentBot is primarily based upon a set of pre-defined moves. The purpose of the bot is to iterate through the set of moves to lead to a 
 fast and decisive victory where the other king is taken. The strategies that were selected for the bot are arranged based upon priority. The initial priority it to 
